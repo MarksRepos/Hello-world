@@ -1,2 +1,7 @@
 # Hello-world
-Test repository to learn github
+
+Hi everyone!
+
+Just a test branch to see see committed changes to the repository branch
+Greetings earthlings :)
+
